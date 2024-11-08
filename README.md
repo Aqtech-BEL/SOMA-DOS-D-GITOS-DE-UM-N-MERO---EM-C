@@ -1,4 +1,4 @@
-
+LINGUAGEM - C
 Código que pede para o usuário digitar um número inteiro positivo e o 
 programa informa quanto é a soma dos dígitos desse número.
 
